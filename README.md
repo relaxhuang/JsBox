@@ -6,6 +6,8 @@ https://xteko.com/redir?url=https%3A%2F%2Fraw.githubusercontent.com%2Frelaxhuang
 #### ComicGrabber (not ready)
 https://xteko.com/redir?url=https%3A%2F%2Fraw.githubusercontent.com%2Frelaxhuang%2FJsBox%2Fmaster%2FComicGrabber.js&name=ComicGrabber&icon=icon_014.png
 
+#### SSHConnect (not ready)
+https://xteko.com/redir?url=https%3A%2F%2Fraw.githubusercontent.com%2Frelaxhuang%2FJsBox%2Fmaster%2FComicGrabber.js&name=ComicGrabber&icon=icon_014.png
 
 
 ## Icon reference
