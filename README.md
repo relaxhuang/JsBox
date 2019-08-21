@@ -9,6 +9,8 @@ https://xteko.com/redir?url=https%3A%2F%2Fraw.githubusercontent.com%2Frelaxhuang
 #### SSHConnect (not ready)
 https://xteko.com/redir?url=https%3A%2F%2Fraw.githubusercontent.com%2Frelaxhuang%2FJsBox%2Fmaster%2FSSHConnect.js&name=SSHConnect&icon=icon_004.png
 
+#### Exchange Rates
+https://xteko.com/redir?url=https%3A%2F%2Fraw.githubusercontent.com%2Frelaxhuang%2FJsBox%2Fmaster%2FExchangeRates.js&name=ExchangeRates&icon=icon_144.png
 
 ## Icon reference
 https://github.com/cyanzhong/xTeko/tree/master/extension-icons
