@@ -2,6 +2,7 @@ $app.strings = {
   "en": {
     "main-title": "Exchange Rates",
     "copied": "Copied",
+    "name-ntd": "🇹🇼 New Taiwan Dollar",
     "name-eur": "🇪🇺 Euro",
     "name-cny": "🇨🇳 Chinese Yuan",
     "name-hkd": "🇭🇰 Hong Kong Dollar",
@@ -35,45 +36,10 @@ $app.strings = {
     "name-try": "🇹🇷 Turkish Lira",
     "name-zar": "🇿🇦 South African Rand"
   },
-  "zh-Hans": {
-    "main-title": "汇率查询",
-    "copied": "已复制",
-    "name-eur": "🇪🇺 欧元",
-    "name-cny": "🇨🇳 人民币",
-    "name-hkd": "🇭🇰 港币",
-    "name-usd": "🇺🇸 美元",
-    "name-gbp": "🇬🇧 英镑",
-    "name-jpy": "🇯🇵 日元",
-    "name-inr": "🇮🇳 印度卢比",
-    "name-aud": "🇦🇺 澳元",
-    "name-cad": "🇨🇦 加拿大元",
-    "name-sgd": "🇸🇬 新加坡元",
-    "name-chf": "🇨🇭 瑞士法郎",
-    "name-myr": "🇲🇾 马来西亚林吉特",
-    "name-thb": "🇹🇭 泰铢",
-    "name-krw": "🇰🇷 韩元",
-    "name-bgn": "🇧🇬 保加利亚列弗",
-    "name-brl": "🇧🇷 巴西雷亚尔",
-    "name-czk": "🇨🇿 捷克克朗",
-    "name-dkk": "🇩🇰 丹麦克郎",
-    "name-hrk": "🇭🇷 克罗地亚库那",
-    "name-huf": "🇭🇺 匈牙利福林",
-    "name-idr": "🇮🇩 印尼卢比",
-    "name-ils": "🇮🇱 以色列镑",
-    "name-mxn": "🇲🇽 墨西哥比索",
-    "name-nok": "🇳🇴 挪威克郎",
-    "name-nzd": "🇳🇿 新西兰元",
-    "name-php": "🇵🇭 菲律宾比索",
-    "name-pln": "🇵🇱 波兰兹罗提",
-    "name-ron": "🇷🇴 罗马尼亚列伊",
-    "name-rub": "🇷🇺 俄罗斯卢布",
-    "name-sek": "🇸🇪 瑞典克郎",
-    "name-try": "🇹🇷 土耳其里拉",
-    "name-zar": "🇿🇦 南非兰特"
-  },
   "zh-Hant": {
     "main-title": "匯率查詢",
-    "copied": "已復制",
+    "copied": "已複製",
+    "name-ntd": "🇹🇼 新台幣",
     "name-eur": "🇪🇺 歐元",
     "name-cny": "🇨🇳 人民幣",
     "name-hkd": "🇭🇰 港幣",
@@ -109,7 +75,7 @@ $app.strings = {
   }
 }
 
-var symbols = ["EUR", "CNY", "HKD", "USD", "GBP", "JPY", "INR", "AUD", "CAD", "SGD", "CHF", "MYR", "THB", "KRW", "BGN", "BRL", "CZK", "DKK", "HRK", "HUF", "IDR", "ILS", "MXN", "NOK", "NZD", "PHP", "PLN", "RON", "RUB", "SEK", "TRY", "ZAR"]
+var symbols = ["NTD", "EUR", "CNY", "HKD", "USD", "GBP", "JPY", "INR", "AUD", "CAD", "SGD", "CHF", "MYR", "THB", "KRW", "BGN", "BRL", "CZK", "DKK", "HRK", "HUF", "IDR", "ILS", "MXN", "NOK", "NZD", "PHP", "PLN", "RON", "RUB", "SEK", "TRY", "ZAR"]
 
 var names = symbols.map(function(item) {
   return $l10n("name-" + item.toLowerCase());
