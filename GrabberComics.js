@@ -4,6 +4,6 @@ var header = {
 };
 
 var imageTags = document.getElementsByTagName('img');
-while(i=0; i<imageTags.length; i++) {
+for (i=0; i<imageTags.length; i++) {
   console.log(imageTags[i]);
 }
