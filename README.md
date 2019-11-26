@@ -12,5 +12,8 @@ https://xteko.com/redir?url=https%3A%2F%2Fraw.githubusercontent.com%2Frelaxhuang
 #### Exchange Rates
 https://xteko.com/redir?url=https%3A%2F%2Fraw.githubusercontent.com%2Frelaxhuang%2FJsBox%2Fmaster%2FExchangeRates.js&name=ExchangeRates&icon=icon_144.png
 
+#### Comic Pages
+https://xteko.com/redir?url=https%3A%2F%2Fraw.githubusercontent.com%2Frelaxhuang%2FJsBox%2Fmaster%2FComics.js&name=ExchangeRates&icon=icon_233.png
+
 ## Icon reference
 https://github.com/cyanzhong/xTeko/tree/master/extension-icons
